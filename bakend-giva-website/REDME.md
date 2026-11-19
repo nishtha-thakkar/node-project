@@ -290,6 +290,10 @@ Backend: Core features implemented; final integration and regression testing ong
 
 Frontend: Planned using React, Vite, and Tailwind CSS.
 
+//***video explanation
+
+(https://drive.google.com/file/d/120CJfw6esg1oHSgd4Ba9__NXsCwuDspq/view?usp=drive_link)
+
 Author
 
-Developed as part of a full-stack jewellery e-commerce project.
+Developed as part of a  bakend jewellery e-commerce project.
